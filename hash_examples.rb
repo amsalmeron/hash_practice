@@ -6,3 +6,9 @@ personal_car = {
   drive: "AWD",
 
 }
+
+favorite_animal = {
+  name: "Panda",
+  color: "Black and White",
+  type: "Mammal"
+}
